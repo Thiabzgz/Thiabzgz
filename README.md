@@ -1,5 +1,5 @@
 +<div align="center">
-+<h1 align="center">Hola, soy Thiabzgz +</div>
++<h1 align="center">Hola, soy Thiabzgz </div>
 
 <!--
 **Thiabzgz/Thiabzgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
